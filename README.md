@@ -16,3 +16,8 @@ To communicate with the developers and other Moneydance community members, pleas
 * Create keys as explained in the developer kit documentation
 
 need to fork what I have ...
+
+## Licensing & Third-Party Attributions
+
+- **Repository License:** This repository's open-source extensions are licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) or [src/license.txt](src/license.txt) for the full license text.
+- **Third-Party Libraries:** Bundled libraries in `lib/` (including LGPL dependencies JFreeChart and JCommon) are subject to their respective open-source licenses. Detailed notices, copyright statements, and source code availability pointers are documented in [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md).
